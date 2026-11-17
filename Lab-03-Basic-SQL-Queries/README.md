@@ -51,7 +51,7 @@ The assignment consists of 10 SQL exercises:
 
 ## Project Files
 
-- `lab03.sql` - SQL queries and data manipulation statements
+- `152120241113_VTYSLabC2627GUZ_UYG3.sql` - SQL queries and data manipulation statements
 
 ## Author
 
