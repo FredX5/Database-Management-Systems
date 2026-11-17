@@ -30,7 +30,8 @@ The database model includes:
 ## ER Diagram
 
 
-![ER Diagram](../241113_uyg1C.png)
+![ER Diagram](241113_uyg1C.png)
+
 
 
 ## Tools Used
